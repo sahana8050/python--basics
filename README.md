@@ -11,3 +11,4 @@ This repository contains my Python learning projects.
 ## About Me
 I am Sahana, a Python learner and aspiring open source contributor. I am preparing for Google Summer of Code (GSoC) 2026.
 - **square_numbers.py** – Prints squares of numbers from 0 to 4 using a while loop.
+- **prime_number.py** → Checks whether a number is Prime or Not Prime
