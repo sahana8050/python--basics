@@ -12,6 +12,7 @@ This repository contains my Python learning projects.
 4. **palindrome.py – Checks whether a word is a palindrome or not.
 5. factorial.py – Calculates the factorial of a number using a loop.
 6. fabonacci.py-adding last two numbers and update them each loop
+7. number guessing game
 
 
 
