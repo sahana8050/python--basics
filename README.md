@@ -1,3 +1,9 @@
+
+## About Me
+Hi, I'm Sahana 
+I'm a Python learner building strong fundamentals in programming and GitHub.  
+Currently preparing to participate in **Google Summer of Code (GSoC) 2026** and improving my problem-solving skills through hands-on projects.
+
 # python--basics
 My Python Learning journey
 # Python Basics
@@ -31,8 +37,3 @@ This repository contains my Python learning projects.
 - Basic Problem Solving
 
 
-
-## About Me
-Hi, I'm Sahana 👋  
-I'm a Python learner building strong fundamentals in programming and GitHub.  
-Currently preparing to participate in **Google Summer of Code (GSoC) 2026** and improving my problem-solving skills through hands-on projects.
