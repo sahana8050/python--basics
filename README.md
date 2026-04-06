@@ -4,11 +4,14 @@ Hi, I'm Sahana
 I'm a Python learner building strong fundamentals in programming and GitHub.  
 Currently preparing to participate in **Google Summer of Code (GSoC) 2026** and improving my problem-solving skills through hands-on projects.
 
+---
 # python--basics
 My Python Learning journey
 # Python Basics
 
 This repository contains my Python learning projects.
+
+---
 
 ## Projects
 
@@ -20,6 +23,8 @@ This repository contains my Python learning projects.
 6. fabonacci.py-adding last two numbers and update them each loop
 7. number guessing game
 
+---
+
    ## How to Run
 
 1. Install Python 3
@@ -27,6 +32,7 @@ This repository contains my Python learning projects.
 3. Run any program using:
    ```bash
    python filename.py
+---
 
    ## Concepts Covered
 
@@ -35,5 +41,6 @@ This repository contains my Python learning projects.
 - Conditional Statements
 - Functions
 - Basic Problem Solving
+  ---
 
 
